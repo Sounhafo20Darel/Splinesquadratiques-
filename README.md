@@ -1,5 +1,5 @@
 
-# Splines Quadratiques - Interpolation
+# SplinesQuadratiquesInterpolation
 
 Implémentation Python de l'interpolation par splines quadratiques avec conditions de continuité C1.
 
